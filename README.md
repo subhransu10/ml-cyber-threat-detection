@@ -54,7 +54,7 @@ We used unsupervised techniques including:
 ## 🧪 How to Run
 
 1. Clone the repo
-2. Run `main.ipynb` to explore EDA and model outputs
+2. Run `apptake.ipynb` to explore EDA and model outputs
 3. Also you can also access the '.csv' files
 
 ```bash
