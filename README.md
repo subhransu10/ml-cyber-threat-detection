@@ -1,6 +1,6 @@
 # ML-Based Anomaly Detection for Web Traffic
 
-🚨 A machine learning solution to detect anomalies in web traffic for the APPtake Hackathon 2025, leveraging unsupervised learning to spot hidden cyber threats.
+🚨 A machine learning solution to detect anomalies in web traffic for the APPtake Hackathon 2025, leveraging unsupervised learning to spot hidden cyber threats. This repo won the Hackathon😎!
 
 ## 🤝 Collaborators
 ### <img src="https://user-images.githubusercontent.com/62358773/158238810-c5dcb486-ba24-4b35-87de-39a54e88f36b.png" width="5%" height="5%"> [Subhransu Sourav Priyadarshan](https://github.com/subhransu10) <img src="https://user-images.githubusercontent.com/62358773/158238810-c5dcb486-ba24-4b35-87de-39a54e88f36b.png" width="5%" height="5%"> [Luca Martini](https://github.com/luke9705)
